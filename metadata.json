@@ -1,0 +1,6 @@
+{
+  "name": "Remix Odonto Smiles - Landing Page Ortodôntica",
+  "description": "Landing page interativa com visualizador 3D de aparelhos ortodônticos, comparador de modelos, antes e depois interativo e painel de edição em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
